@@ -1,17 +1,20 @@
-### Wallet.Exposed
-Wallet.Exposed is a fraud awareness and prevention service dedicated to preventing scams in the world of cryptocurrency
+# Wallet.Exposed
+Wallet.Exposed is a fraud awareness and prevention service dedicated to preventing scams in the world of cryptocurrency.
 
-<!--
-**walletexposed/walletexposed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+## Links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Website:** [wallet.exposed](https://wallet.exposed)<br />
+**GitHub Organization:** [@orgWalletExposed](https://github.com/orgWalletExposed)<br />
+**Twitter:** [@walletExposed](https://twitter.com/walletExposed)<br />
+**Facebook:** [@walletXposed](https://fb.me/walletXposed)<br />
+**Instagram:** [@walletXposed](https://ig.me/walletXposed)<br />
+**Email:** [wallet.exposed@protonmail.com](mailto:wallet.exposed@protonmail.com)
+
+<br />
+
+## FAQ
+
+**Q:** Will you promote my coin?<br />
+**A:** No.
